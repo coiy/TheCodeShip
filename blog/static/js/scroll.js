@@ -1,3 +1,10 @@
+/*
+* TheCodeShip version 1 (oldtheme)
+* Copyright 2013, Ayman Farhat
+* www.thecodeship.com
+* Free to use under the GNU General Public License 3
+* http://www.gnu.org/copyleft/gpl.html
+*/ 
   /* Javascript for the infinite ajax scrolling and back to top scrolling */
   var pageNum = 1;
   var hasNextPage = true;
